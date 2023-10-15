@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rohithkye
-- 👀 I’m interested in front-end development {React.js, Next.js}
-- 🌱 I’m currently learning react and Next.Js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in fullstack development {Next.js, Nest.js, AWS}
 - 📫 How to reach me rohithkye@gmail.com
 - 🖊️ Codepen line https://codepen.io/rohithkye
 
