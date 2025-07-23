@@ -45,5 +45,3 @@ I'm a **Senior Software Engineer** with a focus on building scalable, secure, an
 ---
 
 -->
-
-> “Code is design crystallized into logic.” — Your dev motto here
